@@ -12,14 +12,14 @@ document.querySelector("#btn-reset").addEventListener("click", () => {
 });
 
 // event listener for backspace button
-document.querySelector("#btn-delete").addEventListener("click", () => {
-	if (display.innerHTML === "0") return; // Do nothing if display is 0
-	if (display.innerHTML.length === 1) {
-		display.innerHTML = "0"; // Reset to 0 if only one character is present
-		return;
-	}
-	display.innerHTML = display.innerHTML.slice(0, -1);
-});
+// document.querySelector("#btn-delete").addEventListener("click", () => {
+// 	if (display.innerHTML === "0") return; // Do nothing if display is 0
+// 	if (display.innerHTML.length === 1) {
+// 		display.innerHTML = "0"; // Reset to 0 if only one character is present
+// 		return;
+// 	}
+// 	display.innerHTML = display.innerHTML.slice(0, -1);
+// });
 
 for (let btn of digitButtons) {
 	btn.addEventListener("click", () => {
