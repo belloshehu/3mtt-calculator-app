@@ -35,6 +35,5 @@ calculator/
 ## License
 
 This project is licensed under the MIT License.
-
-<img width="1440" alt="Screenshot 2025-06-11 at 21 50 43" src="https://github.com/user-attachments/assets/97791c97-6f5d-4773-9643-a24dd4f62eed" />
+<img width="702" alt="Screenshot 2025-06-11 at 21 50 43" src="https://github.com/user-attachments/assets/94c137d2-4aec-45c1-9e2d-f6c836d17a18" />
 
